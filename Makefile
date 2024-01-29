@@ -1,4 +1,4 @@
 compile :
-	gcc exercise.c -o exercise
+	javac T01.java
 test_01 :
-	./exercise
+	java T01
